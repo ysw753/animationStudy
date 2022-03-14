@@ -20,7 +20,7 @@ function App() {
         <Route path={["/search","/search/:movieId"]}>
           <Search />
         </Route>
-        <Route path={["/","/movies/:movieId"]}>
+        <Route path={[`${process.env.PUBLIC_URL}/`,"/movies/:movieId"]}>
           <Home />
         </Route>
         
