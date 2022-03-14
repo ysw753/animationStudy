@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/cloneNetflex/static/js/main.cb76031c.js",
+    "main.js": "/cloneNetflex/static/js/main.d7955521.js",
     "index.html": "/cloneNetflex/index.html",
-    "main.cb76031c.js.map": "/cloneNetflex/static/js/main.cb76031c.js.map"
+    "main.d7955521.js.map": "/cloneNetflex/static/js/main.d7955521.js.map"
   },
   "entrypoints": [
-    "static/js/main.cb76031c.js"
+    "static/js/main.d7955521.js"
   ]
 }
